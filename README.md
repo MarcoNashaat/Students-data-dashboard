@@ -1,5 +1,5 @@
 # Students-data-dashboard
-Dataset used avaliabe on kaggle at (https://www.kaggle.com/code/devansodariya/student-performance-analytics/data)
+Dataset used avaliabe on kaggle [here](https://www.kaggle.com/code/devansodariya/student-performance-analytics/data)
 ### Technologies used:  
 - excel  
 - power BI  
